@@ -30,6 +30,12 @@ header {
   gap: 20px;
 }
 
+.middleH {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
 .rightH {
   display: flex;
   align-items: center;
