@@ -1,4 +1,4 @@
-The 1inchprotocol- price slipage experiment for swaps with x*y=k verses 1 inch API and moralis for fetiching real time data.
+The 1inchprotocol- price slipage experiment for swaps with x*y=k verses 1 inch API and moralis for fetching real time data and swap rates.
 https://dex1inch.netlify.app/ -- liveserver
 
 ![1inch](https://user-images.githubusercontent.com/51912776/218257231-e59ebb7c-bf4b-4d43-8bde-ab175cc8326c.PNG)
